@@ -1,1 +1,2 @@
 Local coffee from Git coffee maker
+Remote coffee from GitHub coffee maker
